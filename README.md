@@ -1,30 +1,18 @@
+<div align="center">
 
 # Your Name
 
-<sub>From GitHub, the free profile</sub>
+<sub>  Engineer ·  Researcher · Contributor</sub>
 
 <sub><i>"Your Name" redirects here. For other uses, see <a href="#">Your Name (disambiguation)</a>.</i></sub>
 
+</div>
+
 <table width="100%">
 <tr>
-<td width="72%" valign="top">
+<td width="70%" valign="top">
 
 <p><b>Your Name</b> (born <i>Lorem Ipsum</i>; 1 January 2000) is a <i>software developer</i> and <i>open-source contributor</i> based in Dolor, Sit Amet.<sup><a href="#references">[1]</a></sup> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<sup><a href="#references">[2]</a></sup></p>
-
-<h3>Contents</h3>
-
-<ol>
-<li><a href="#early-life">Early life</a></li>
-<li><a href="#career">Career</a>
-  <ol>
-    <li><a href="#projects">Projects</a></li>
-    <li><a href="#skills">Skills</a></li>
-  </ol>
-</li>
-<li><a href="#personal-life">Personal life</a></li>
-<li><a href="#references">References</a></li>
-<li><a href="#external-links">External links</a></li>
-</ol>
 
 <hr>
 
@@ -96,7 +84,7 @@
 
 </td>
 
-<td width="28%" valign="top">
+<td width="30%" valign="top">
 
 <table width="100%">
 <tr>
@@ -154,7 +142,5 @@
 <hr>
 
 <sub><b>Categories:</b> <a href="#">Living people</a> | <a href="#">Software developers</a> | <a href="#">Open-source contributors</a></sub>
-
-<br><br>
 
 <sub>This page was last edited on 3 November 2026.</sub>
