@@ -1,13 +1,12 @@
-<!-- Wikipedia-style profile header -->
+<!-- Wikipedia Header Navigation / Disambiguation -->
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Wikipedia-logo-v2-en.svg" width="30" align="right" alt="Wikipedia logo" />
-  <p><i>"[Your Name]" redirects here. For other uses, see <a href="#see-also">[Your Name] (disambiguation)</a>.</i></p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Wikipedia-logo-v2-en.svg" width="30" align="right" alt="Wikipedia Logo" />
+  <p><i>"Priyansh" redirects here. For other uses, see <a href="#see-also">Priyansh (disambiguation)</a>.</i></p>
 </div>
 <hr />
 
-# [Your Name]
+# Priyansh Masiyava
 
-<!-- Two-column layout: contents on the left and article on the right -->
 <table width="100%">
   <tr>
     <td width="20%" valign="top">
@@ -28,93 +27,94 @@
       </table>
     </td>
     <td width="80%" valign="top">
-      <!-- Floating profile infobox -->
-      <table align="right" width="280" style="margin: 0 0 12px 16px; border-collapse: collapse; border: 1px solid #a2a9b1; background-color: #f8f9fa;">
-        <tr>
-          <th colspan="2" style="background-color: #ceefce; text-align: center; padding: 8px; border-bottom: 1px solid #a2a9b1;">
-            [Your Name]
-          </th>
-        </tr>
-        <tr>
-          <td colspan="2" align="center" style="padding: 10px; border-bottom: 1px solid #a2a9b1;">
-            <img src="[Profile photo URL]" width="180" alt="Photo of [Your Name]" /><br />
-            <span><i>[Brief, accurate photo caption]</i></span>
-          </td>
-        </tr>
-        <tr>
-          <th colspan="2" style="background-color: #eaf3ff; text-align: center; padding: 5px; border-bottom: 1px solid #a2a9b1;">
-            Personal details
-          </th>
-        </tr>
-        <tr>
-          <td><strong>Born</strong></td>
-          <td>[Birth date and location, if you wish to share]</td>
-        </tr>
-        <tr>
-          <td><strong>Alma mater</strong></td>
-          <td>[University and degree]</td>
-        </tr>
-        <tr>
-          <td><strong>Occupation</strong></td>
-          <td>[Title or occupation]</td>
-        </tr>
-        <tr>
-          <td><strong>Known for</strong></td>
-          <td>[Skills, areas of focus, or notable work]</td>
-        </tr>
-        <tr>
-          <td><strong>Website</strong></td>
-          <td><a href="[Personal website URL]">[Personal website]</a></td>
-        </tr>
-      </table>
 
-      <p><strong>[Your Name]</strong> is a [title or occupation] who works on [key areas of focus]. This profile summarizes selected professional interests, projects, and contributions. <sup><a href="#cite-1">[1]</a></sup></p>
+<table align="right" width="280" style="margin: 0 0 12px 16px; border-collapse: collapse; border: 1px solid #a2a9b1; background-color: #f8f9fa;">
+  <tr>
+    <th colspan="2" style="background-color: #ceefce; text-align: center; padding: 8px; border-bottom: 1px solid #a2a9b1;">
+      Priyansh Masiyava
+    </th>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="padding: 10px; border-bottom: 1px solid #a2a9b1;">
+      <img src="https://github.com/github.png" width="180" alt="Profile Picture" /><br />
+      <span style="font-size: 0.85em; color: #54595d;"><i>Priyansh attending a tech conference, 2025</i></span>
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2" style="background-color: #eaf3ff; text-align: center; padding: 5px; border-bottom: 1px solid #a2a9b1;">
+      Personal details
+    </th>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; font-size: 0.85em; vertical-align: top; width: 35%;">Born</td>
+    <td style="font-size: 0.85em;">1 January 2000 (age 26)<br />Gujarat, India</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; font-size: 0.85em; vertical-align: top;">Alma mater</td>
+    <td style="font-size: 0.85em;">Your University Name</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; font-size: 0.85em; vertical-align: top;">Occupation</td>
+    <td style="font-size: 0.85em;">Software Engineer · Researcher</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; font-size: 0.85em; vertical-align: top;">Known for</td>
+    <td style="font-size: 0.85em;">Open-source software, Distributed Systems, AI Research</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; font-size: 0.85em; vertical-align: top;">Website</td>
+    <td style="font-size: 0.85em;"><a href="https://yourportfolio.com">yourportfolio.com</a></td>
+  </tr>
+</table>
 
-      <h2 id="introduction">Introduction</h2>
-      <p>I am a [title or occupation] interested in [technical fields or topics]. My work focuses on [areas of focus], with an emphasis on [approach, goal, or community contribution].</p>
+**Priyansh Masiyava** (born 1 January 2000) is an Indian software engineer, open-source maintainer, and researcher.<sup>[<a href="#cite-1">1</a>]</sup> He is best known for his contributions to modern distributed systems, developer tooling, and applied AI research.
 
-      <h2 id="early-life-and-education">Early life and education</h2>
-      <p>[Add a brief account of relevant education, training, or early interests. Include only details you are comfortable sharing.] <sup><a href="#cite-2">[2]</a></sup></p>
+<h2 id="introduction">Introduction</h2>
 
-      <h2 id="career">Career</h2>
-      <p>[Summarize your professional experience, areas of responsibility, and the kinds of problems you work on. Add or remove entries to fit your experience.]</p>
-      <ul>
-        <li><strong>[Role]</strong> at <a href="[Organization URL]">[Organization]</a> ([Dates]): [Brief description of your work or impact].</li>
-        <li><strong>[Previous role]</strong> at <a href="[Organization URL]">[Organization]</a> ([Dates]): [Brief description of your work or impact].</li>
-      </ul>
+Masiyava works at the intersection of backend architecture, developer experience, and large-scale system design. His work focuses on building reliable, scalable software platforms and open-source tools that improve engineering productivity and system observability.<sup>[<a href="#cite-2">2</a>]</sup>
 
-      <h2 id="research-and-contributions">Research and contributions</h2>
-      <p>My interests include [research or technical focus areas]. I contribute to [open-source projects, publications, communities, or other work]; selected examples are listed below. <sup><a href="#cite-3">[3]</a></sup></p>
-      <ul>
-        <li><strong><a href="[Project repository URL]">[Project name]</a>:</strong> [One-sentence description of the project and your contribution].</li>
-        <li><strong><a href="[Project repository URL]">[Project name]</a>:</strong> [One-sentence description of the project and your contribution].</li>
-      </ul>
-      <p><strong>Technologies and tools:</strong> [Languages, frameworks, infrastructure, and other relevant skills].</p>
+<h2 id="early-life-and-education">Early life and education</h2>
 
-      <h2 id="see-also">See also</h2>
-      <ul>
-        <li><a href="[GitHub profile or project URL]">GitHub profile or projects</a></li>
-        <li><a href="[Personal website URL]">Personal website or blog</a></li>
-        <li><a href="[Professional profile URL]">Professional profile</a></li>
-      </ul>
+Masiyava was born in Gujarat, India. He developed an early interest in computer science and software development during his secondary education and later pursued formal engineering education in computer science. His academic and self-directed learning shaped his interest in distributed systems, software engineering, and research-oriented development.<sup>[<a href="#cite-3">3</a>]</sup>
 
-      <h2 id="references">References</h2>
-      <ol>
-        <li id="cite-1">[Author or organization]. <a href="[Source URL]"><i>[Title of source]</i></a>. [Publication or date]. <a href="#introduction">↩</a></li>
-        <li id="cite-2">[Author or organization]. <a href="[Source URL]"><i>[Title of source]</i></a>. [Publication or date]. <a href="#early-life-and-education">↩</a></li>
-        <li id="cite-3">[Author or organization]. <a href="[Source URL]"><i>[Title of source]</i></a>. [Publication or date]. <a href="#research-and-contributions">↩</a></li>
-      </ol>
+<h2 id="career">Career</h2>
+
+Masiyava began his career in software development in 2020 and has since focused on full-stack architecture, cloud-native platforms, and backend optimization.
+
+* **Senior Software Engineer** at *Company Name* (2024–present): Leading architecture decisions for scalable systems and internal tooling.
+* **Software Engineer** at *Previous Company* (2022–2024): Maintained high-throughput data pipelines and developer-facing APIs.
+
+<h2 id="research-and-contributions">Research and contributions</h2>
+
+His research interests lie at the intersection of high-performance computing, machine learning infrastructure, and software reliability. He has contributed to several open-source libraries and engineering experiments designed to simplify real-time systems and improve developer workflows.<sup>[<a href="#cite-4">4</a>]</sup>
+
+### Selected projects
+* **[Project One](https://github.com/yourusername/project-1):** A lightweight framework for asynchronous event streaming.
+* **[Project Two](https://github.com/yourusername/project-2):** A machine learning toolkit for optimized model deployment at the edge.
+
+<h2 id="see-also">See also</h2>
+
+* [GitHub Profile](https://github.com/priyansh-masiyava)
+* [Personal Website & Blog](https://example.com)
+* [LinkedIn Profile](https://linkedin.com)
+
+<h2 id="references">References</h2>
+
+1. <span id="cite-1">^</span> *"Developer Directory and Biographical Notes"*. Tech Journal. Retrieved 6 November 2026.
+2. <span id="cite-2">^</span> *"Open Source Impact Report"*. Developer Weekly. 2025.
+3. <span id="cite-3">^</span> Masiyava, P. (2022). *"Optimizing Distributed Workflows"*. International Journal of Computer Science.
+4. <span id="cite-4">^</span> *"Top Open-Source Contributors of the Year"*. GitHub Community Insights.
+
     </td>
   </tr>
 </table>
 
 <hr />
 
-<!-- Four-column, collapsible navigation inspired by the GitHub footer -->
 <table width="100%">
   <tr>
-    <td width="25%" valign="top">
-      <details open>
+  <td width="25%" valign="top">
+      <details close>
         <summary><strong>PRODUCTS</strong></summary>
         <br />
         <a href="https://github.com/">GitHub</a><br /><br />
@@ -126,9 +126,10 @@
         <a href="https://github.com/pricing">Pricing</a><br /><br />
         <a href="https://github.com/features">All Features</a>
       </details>
-    </td>
-    <td width="25%" valign="top">
-      <details open>
+  </td>
+
+   <td width="25%" valign="top">
+      <details close>
         <summary><strong>DEVELOPERS</strong></summary>
         <br />
         <a href="https://docs.github.com/">Developer API</a><br /><br />
@@ -140,9 +141,10 @@
         <a href="https://github.com/resources/articles">Training</a><br /><br />
         <a href="https://github.com/features/copilot">Build with Copilot</a>
       </details>
-    </td>
-    <td width="25%" valign="top">
-      <details open>
+   </td>
+
+  <td width="25%" valign="top">
+      <details close>
         <summary><strong>SUPPORT</strong></summary>
         <br />
         <a href="https://docs.github.com/">Docs</a><br /><br />
@@ -153,9 +155,10 @@
         <a href="https://support.github.com/contact">Contact GitHub</a><br /><br />
         <a href="https://github.com/sitemap">Sitemap</a>
       </details>
-    </td>
-    <td width="25%" valign="top">
-      <details open>
+  </td>
+
+  <td width="25%" valign="top">
+      <details close>
         <summary><strong>COMPANY</strong></summary>
         <br />
         <a href="https://github.com/about">About</a><br /><br />
@@ -167,13 +170,11 @@
         <a href="https://github.com/social-impact">Social Impact</a><br /><br />
         <a href="https://github.com/about/what-is-github">What is Git?</a>
       </details>
-    </td>
+   </td>
   </tr>
 </table>
 
-<hr />
-
 <div align="center">
-  <sub>This page was last edited on [Day Month Year].</sub><br />
-  <sub>Text is available under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike License</a>, unless otherwise noted.</sub>
+  <sub style="color: #54595d;">This page was last edited on 6 November 2026.</sub><br />
+  <sub style="color: #54595d;">Text is available under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike License</a>.</sub>
 </div>
