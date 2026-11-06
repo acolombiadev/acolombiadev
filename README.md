@@ -1,6 +1,6 @@
 <div align="center">
 
-# Priyansh Masiyava
+### Priyansh Masiyava
 
 <sub>Engineer · Researcher · Contributor</sub>
 
@@ -10,25 +10,31 @@
 
 <hr>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="8">
+<div align="center">
+
+<table width="75%" border="0" cellspacing="0" cellpadding="6">
 <tr>
 
 <!-- Contents (left) -->
-<td width="20%" valign="top">
+<td width="22%" valign="top" align="left">
 
-<table width="100%" border="1" cellspacing="0" cellpadding="5">
+<table width="100%" border="1" cellspacing="0" cellpadding="4">
 <tr>
-<th bgcolor="#CEE0F2" align="center">Contents</th>
+<th bgcolor="#CEE0F2" align="center"><sub>Contents</sub></th>
 </tr>
 <tr>
 <td valign="top">
 
+<sub>
+
 1. [Introduction](#introduction)
-2. [Early life and education](#early-life-and-education)
+2. [Early life](#early-life-and-education)
 3. [Career](#career)
-4. [Research and contributions](#research-and-contributions)
+4. [Research](#research-and-contributions)
 5. [See also](#see-also)
 6. [References](#references)
+
+</sub>
 
 </td>
 </tr>
@@ -37,82 +43,90 @@
 </td>
 
 <!-- Article (right) -->
-<td width="80%" valign="top">
+<td width="78%" valign="top" align="left">
 
-<table width="100%" border="0" cellspacing="0" cellpadding="8">
+<table width="100%" border="0" cellspacing="0" cellpadding="6">
 <tr>
 
 <!-- Article text -->
-<td width="65%" valign="top">
+<td width="68%" valign="top" align="left">
 
-**Priyansh Masiyava** (born 1 January 2000) is a software developer. Write a one-sentence summary here.<sup>[1]</sup>
+<sub>**Priyansh Masiyava** (born 1 January 2000) is a software developer. Write a one-sentence summary here.<sup>[1]</sup></sub>
 
-## Introduction
+#### Introduction
 
-Write your introduction here. Describe your background, professional experience, research interests, and contributions.
+<sub>Write your introduction here. Describe your background, professional experience, research interests, and contributions.</sub>
 
-## Early life and education
+#### Early life and education
 
-Write your educational background and academic journey here.<sup>[2]</sup>
+<sub>Write your educational background and academic journey here.<sup>[2]</sup></sub>
 
-## Career
+#### Career
 
-Describe your professional experience and career development here.
+<sub>Describe your professional experience and career development here.</sub>
 
-## Research and contributions
+#### Research and contributions
 
-Describe your research interests, open-source contributions, and notable projects here.
+<sub>Describe your research interests, open-source contributions, and notable projects here.</sub>
 
-## See also
+#### See also
+
+<sub>
 
 - [Related topic](#)
 - [Related project](#)
 
-## References
+</sub>
+
+#### References
+
+<sub>
 
 1. Reference one.
 2. Reference two.
 
+</sub>
+
 </td>
 
 <!-- Infobox -->
-<td width="35%" valign="top">
+<td width="32%" valign="top" align="left">
 
-<table width="100%" border="1" cellspacing="0" cellpadding="5">
+<table width="100%" border="1" cellspacing="0" cellpadding="4">
 
 <tr>
-<th bgcolor="#CEE0F2" align="center">Priyansh Masiyava</th>
+<th bgcolor="#CEE0F2" align="center"><sub>Priyansh Masiyava</sub></th>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://placehold.co/300x360/EAECF0/54595D.png?text=Photo" width="100%" alt="Priyansh Masiyava">
+<img src="https://placehold.co/300x360/EAECF0/54595D.png?text=Photo" width="150" alt="Priyansh Masiyava">
 <br>
 <sub><i>Caption goes here</i></sub>
 </td>
 </tr>
 
 <tr>
-<th bgcolor="#CEE0F2" align="center">Personal details</th>
+<th bgcolor="#CEE0F2" align="center"><sub>Personal details</sub></th>
 </tr>
 
-<tr><th align="left">Born</th></tr>
-<tr><td>1 January 2000</td></tr>
+<tr><th align="left"><sub>Born</sub></th></tr>
+<tr><td><sub>1 January 2000</sub></td></tr>
 
-<tr><th align="left">Nationality</th></tr>
-<tr><td>Dolor</td></tr>
+<tr><th align="left"><sub>Nationality</sub></th></tr>
+<tr><td><sub>Dolor</sub></td></tr>
 
-<tr><th align="left">Occupation</th></tr>
-<tr><td>Software developer</td></tr>
+<tr><th align="left"><sub>Occupation</sub></th></tr>
+<tr><td><sub>Software developer</sub></td></tr>
 
-<tr><th align="left">Years active</th></tr>
-<tr><td>2018–present</td></tr>
+<tr><th align="left"><sub>Years active</sub></th></tr>
+<tr><td><sub>2018–present</sub></td></tr>
 
-<tr><th align="left">Known for</th></tr>
-<tr><td>Lorem ipsum</td></tr>
+<tr><th align="left"><sub>Known for</sub></th></tr>
+<tr><td><sub>Lorem ipsum</sub></td></tr>
 
-<tr><th align="left">Website</th></tr>
-<tr><td><a href="#">example.com</a></td></tr>
+<tr><th align="left"><sub>Website</sub></th></tr>
+<tr><td><sub><a href="#">example.com</a></sub></td></tr>
 
 </table>
 
@@ -124,4 +138,6 @@ Describe your research interests, open-source contributions, and notable project
 </tr>
 </table>
 
-<sub>This page was last edited on 5 November 2026.</sub>
+</div>
+
+<div align="center"><sub>This page was last edited on 5 November 2026.</sub></div>
