@@ -115,7 +115,7 @@
   <li id="cite-3">[Author or organization]. <a href="[Source URL]"><i>[Title of source]</i></a>. [Publication or date]. <a href="#research-and-contributions">↩</a></li>
 </ol>
 
-    </td>
+  </td>
   </tr>
 </table>
 
